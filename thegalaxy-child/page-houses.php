@@ -4,7 +4,7 @@
 	
 	/*
 		@package WordPress
-		@subpackage alderaan
+		@subpackage thegalaxy
 		Template Name: Page - Houses
 	*/
 	 
