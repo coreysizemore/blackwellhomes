@@ -19,7 +19,7 @@
 		
 ?>
 
-<div class="main <?php echo basename(get_permalink()); ?>">
+<div id="main" class="<?php echo basename(get_permalink()); ?>">
 
 	<?php if( get_field('default_editor')): ?>
 	
